@@ -1,4 +1,4 @@
-package org.cyberrepublic.flutterelastoscarrier
+package org.elastos.flutter_elastos_carrier
 
 import io.flutter.plugin.common.MethodCall
 import io.flutter.plugin.common.MethodChannel

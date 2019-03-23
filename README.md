@@ -1,6 +1,6 @@
 # flutter_elastos_carrier
 
-A new Flutter plugin.
+A new flutter plugin project.
 
 ## Getting Started
 

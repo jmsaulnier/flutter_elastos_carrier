@@ -1,4 +1,4 @@
-package org.cyberrepublic.flutterelastoscarrierexample
+package org.elastos.flutter_elastos_carrier_example
 
 import android.os.Bundle
 
